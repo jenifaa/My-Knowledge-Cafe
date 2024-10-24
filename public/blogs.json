@@ -3,7 +3,7 @@
       "id": 1,
       "title": "The Dawn of AI",
       "author": "Sarah Mitchell",
-      "author_img": "https://example.com/images/authors/sarah_mitchell.jpg",
+      "author_img": "https://i.ibb.co.com/V9Bxc7n/boy1.png",
       "posted_date": "2024-10-01",
       "reading_time": 7,
       "hashtag": ["#AI", "#Technology", "#Future"],
@@ -13,41 +13,41 @@
       "id": 2,
       "title": "Sustainable Living in 2025",
       "author": "James Carter",
-      "author_img": "https://example.com/images/authors/james_carter.jpg",
+      "author_img": "https://i.ibb.co.com/V9Bxc7n/boy1.png",
       "posted_date": "2024-09-25",
       "reading_time": 5,
       "hashtag": ["#Sustainability", "#GreenLiving", "#Environment"],
-      "cover": "https://i.ibb.co.com/bzP5J1P/high-angle-desktop-with-laptop-copy-space.jpg"
+      "cover": "https://i.ibb.co.com/PFWGfZh/1.jpg"
     },
     {
       "id": 3,
       "title": "The Art of Remote Work",
       "author": "Emily Rivers",
-      "author_img": "https://example.com/images/authors/emily_rivers.jpg",
+      "author_img": "https://i.ibb.co.com/r4T2TcW/girl2.jpg",
       "posted_date": "2024-10-10",
       "reading_time": 6,
       "hashtag": ["#RemoteWork", "#Productivity", "#WFH"],
-      "cover": "https://i.ibb.co.com/bzP5J1P/high-angle-desktop-with-laptop-copy-space.jpg"
+      "cover": "https://i.ibb.co.com/zGY7znm/2.png"
     },
     {
       "id": 4,
       "title": "Exploring the Metaverse",
       "author": "Michael Torres",
-      "author_img": "https://example.com/images/authors/michael_torres.jpg",
+      "author_img": "https://i.ibb.co.com/fqZRx03/girl1.jpg",
       "posted_date": "2024-10-18",
       "reading_time": 8,
       "hashtag": ["#Metaverse", "#VirtualReality", "#TechTrends"],
-      "cover": "https://i.ibb.co.com/bzP5J1P/high-angle-desktop-with-laptop-copy-space.jpg"
+      "cover": "https://i.ibb.co.com/zS9zrzx/3.png"
     },
     {
       "id": 5,
       "title": "Healthy Eating on a Budget",
       "author": "Rebecca Green",
-      "author_img": "https://example.com/images/authors/rebecca_green.jpg",
+      "author_img": "https://i.ibb.co.com/r4T2TcW/girl2.jpg",
       "posted_date": "2024-10-20",
       "reading_time": 4,
       "hashtag": ["#Health", "#Nutrition", "#BudgetTips"],
-      "cover": "https://i.ibb.co.com/bzP5J1P/high-angle-desktop-with-laptop-copy-space.jpg"
+      "cover": "https://i.ibb.co.com/f0gwWX8/4.jpg"
     }
   ]
   
