@@ -9,9 +9,16 @@ function App() {
   
   const [bookmarks, setBookmarks] = useState([]);
 
+  const [readingTime, setReadingTime] = useState(0);
+
+
   const handleBookmark = (blog) => {
     const newBookmarks = [...bookmarks, blog];
     setBookmarks(newBookmarks);
+  }
+
+  const handleReadingTime = time => {
+    setReadingTime(readingTime + time);
   }
 
   return (
@@ -19,8 +26,8 @@ function App() {
       
       <Header></Header>
      <div className='md:flex'>
-        <Blogs handleBookmark={handleBookmark}></Blogs>
-        <Bookmarks bookmarks={bookmarks}></Bookmarks>
+        <Blogs handleBookmark={handleBookmark} handleReadingTime={handleReadingTime} ></Blogs>
+        <Bookmarks readingTime={readingTime} bookmarks={bookmarks}></Bookmarks>
      </div>
       
     </>
